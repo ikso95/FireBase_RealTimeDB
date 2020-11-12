@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FireBase_RealTimeDB</string>
+    <string name="name">Name</string>
+    <string name="surename">Surename</string>
+    <string name="wyslij">Wyślij!</string>
+    <string name="send">send</string>
+</resources>

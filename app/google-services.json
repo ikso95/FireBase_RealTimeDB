@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "779633857714",
+    "firebase_url": "https://fir-realtimedb-52517.firebaseio.com",
+    "project_id": "fir-realtimedb-52517",
+    "storage_bucket": "fir-realtimedb-52517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779633857714:android:0606216dedf86ad1af25ab",
+        "android_client_info": {
+          "package_name": "com.foxcode.firebase_realtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779633857714-818ses8etq9klofprqii7di07oqm0i6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb86ggvrny6yTz8HKevtHk4boI_oGtVB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779633857714-818ses8etq9klofprqii7di07oqm0i6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
